@@ -1,5 +1,5 @@
 # FIFA19|Player & Team Analysis and Value Predict
-https://www.fifaultimateteam.it/en/wp-content/uploads/2018/08/DkkLl5DU4AMLOXy.jpg
+![image](https://user-images.githubusercontent.com/55652596/120851419-6ed2b100-c596-11eb-8fec-1e64606b4c74.png)
 
 # Data Description:
 This data set is taken from Kaggle: https://www.kaggle.com/karangadiya/fifa19 and Github: https://github.com/4m4n5/fifa18-all-player-statistics/tree/master/2019
