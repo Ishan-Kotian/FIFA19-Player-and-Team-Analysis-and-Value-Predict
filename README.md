@@ -1,6 +1,7 @@
 # FIFA19|Player & Team Analysis and Value Predict
 
-[](https://nbviewer.jupyter.org/github/Ishan-Kotian/FIFA19-Player-and-Team-Analysis-and-Value-Predict/blob/fc1de75356fc0d13c83e05e250d5d18c044f4155/fifa19-player-team-analysis-and-value-predict.ipynb)
+[![image](https://user-images.githubusercontent.com/55652596/123240377-e2b10b00-d4fd-11eb-9e73-37f0a9ab1fe7.png)
+](https://nbviewer.jupyter.org/github/Ishan-Kotian/FIFA19-Player-and-Team-Analysis-and-Value-Predict/blob/fc1de75356fc0d13c83e05e250d5d18c044f4155/fifa19-player-team-analysis-and-value-predict.ipynb)
 ![image](https://user-images.githubusercontent.com/55652596/120851419-6ed2b100-c596-11eb-8fec-1e64606b4c74.png)
 
 # Data Description:
